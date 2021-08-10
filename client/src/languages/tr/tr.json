@@ -1,0 +1,19 @@
+{
+  "description": "Hızlı ve basit bir To Do uygulaması",
+  "sign-out": "Çıkış Yap",
+  "sign-in": "Giriş Yap",
+  "sign-up-for-toody": "Toody'ye Kaydolun",
+  "my-toodies": "Toodylerim",
+  "what-do-you-need-to-do-today": "Bugün ne yapman gerekiyor?",
+  "add": "Ekle",
+  "welcome-back": "Hoş geldin",
+  "username": "Kullanıcı adı",
+  "password": "Parola",
+  "have-not-account-yet": "Henüz hesabınız yok mu?",
+  "sign-up": "Üye olun",
+  "your-name": "Adınız",
+  "your-email": "E-posta adresiniz",
+  "something-went-wrong": "Bir şeyler yanlış gitti!",
+  "no-such-username-found": "Böyle bir kullanıcı adı bulunamadı!",
+  "wrong-password-please-try-again": "Yanlış şifre, lütfen tekrar deneyin!"
+}

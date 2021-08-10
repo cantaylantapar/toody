@@ -1,0 +1,19 @@
+{
+  "description": "Быстрое и простое приложение для задач",
+  "sign-out": "Выход",
+  "sign-in": "Войти",
+  "sign-up-for-toody": "Подпишитесь на Toody",
+  "my-toodies": "Мои toodies",
+  "what-do-you-need-to-do-today": "Что тебе нужно сегодня?",
+  "add": "добавлять",
+  "welcome-back": "Добро пожаловать",
+  "username": "Имя пользователя",
+  "password": "пароль",
+  "have-not-account-yet": "Еще не зарегистрированы?",
+  "sign-up": "Зарегистрироваться",
+  "your-name": "ваше имя",
+  "your-email": "Ваша электронная почта",
+  "something-went-wrong": "Something went wrong!",
+  "no-such-username-found": "Что-то пошло не так!",
+  "wrong-password-please-try-again": "Неверный пароль, попробуйте еще раз!"
+}

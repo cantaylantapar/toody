@@ -1,0 +1,19 @@
+{
+  "description": "A fast and simple To Do app",
+  "sign-out": "Sign Out",
+  "sign-in": "Sign In",
+  "sign-up-for-toody": "Sign Up for Toody",
+  "my-toodies": "My toodies",
+  "what-do-you-need-to-do-today": "What do you need today?",
+  "add": "Add",
+  "welcome-back": "Welcome Back",
+  "username": "Username",
+  "password": "Password",
+  "have-not-account-yet": "Have not account yet?",
+  "sign-up": "Sign Up",
+  "your-name": "Your Name",
+  "your-email": "Your Email",
+  "something-went-wrong": "Something went wrong!",
+  "no-such-username-found": "No such username found!",
+  "wrong-password-please-try-again": "Wrong password, please try again!"
+}
