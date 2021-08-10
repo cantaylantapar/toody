@@ -1,0 +1,7 @@
+{
+  "name": "Toody",
+  "description": "A fast, simple and multilingual To Do app project created on MERN Stack.",
+  "repository": "https://github.com/cantaylantapar/toody",
+  "logo": "https://github.com/cantaylantapar/toody/blob/main/client/src/images/logo.png",
+  "keywords": ["node", "express", "mongoose", "react", "todo"]
+}

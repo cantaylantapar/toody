@@ -1,5 +1,5 @@
 import axios from "axios";
-const tasksAPI = "http://localhost:8080/api/tasks";
+const tasksAPI = "/api/tasks"; // Look out at "proxy" key in package.json file for base URL
 
 export const getTasks = (user) => axios.get(`${tasksAPI}/${user.username}`);
 
