@@ -10,7 +10,7 @@ react-i18next
 bcrypt
 dotenv
 
-## Core dependencies
+## Supported Languages
 
 English
 Russian
