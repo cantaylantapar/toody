@@ -1,5 +1,6 @@
-# Toody to-do App
+# Toody To Do App
 
+Live Sample: https://toody.herokuapp.com
 A fast, simple and multilingual To Do app project created on MERN Stack.
 
 ## Core dependencies
@@ -12,6 +13,6 @@ dotenv
 
 ## Core dependencies
 
-English
-Russian
-Turkish
+- English
+- Russian
+- Turkish
