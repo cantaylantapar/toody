@@ -75,7 +75,7 @@ i18n
       },
     },
     react: {
-      wait: true,
+      // wait: true,
       // useSuspense: false,
     },
   });

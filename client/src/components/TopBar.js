@@ -93,7 +93,7 @@ const TopBar = () => {
           data-bs-toggle="collapse"
           data-bs-target="#navbarButtonsExample"
         >
-          <span class="navbar-toggler-icon"></span>
+          <span className="navbar-toggler-icon"></span>
         </button>
         <LanguageSelector />
       </div>

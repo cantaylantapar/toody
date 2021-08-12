@@ -11,13 +11,11 @@ const LanguageSelector = () => {
   return (
     <div>
       <select
-        class="form-select"
+        className="form-select"
         aria-label="Default select example"
         onChange={changeLanguage}
       >
-        <option selected value="en">
-          English
-        </option>
+        <option value="en">English</option>
         <option value="ru">русский</option>
         <option value="tr">Türkçe</option>
       </select>
